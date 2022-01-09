@@ -1,0 +1,10 @@
+a:link {color:#480cee;}    /* unvisited link */ 
+a:visited {color:#999;} /* visited link */ 
+a:hover {color:#57f55f;}   /* mouse over link */ 
+a:active {color:rgb(226, 241, 3);}  /* selected link */ 
+ 
+.input {border: 1px solid #006; background:#FFF; height:40px; width:275px; font-size:16px; text-align:center;} 
+.input:hover { 
+    border: 1px solid rgb(240, 12, 12); 
+        background:#F0F0F0; 
+} 
